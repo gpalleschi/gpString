@@ -1,6 +1,6 @@
 #gpString
 
-gpString is a C library providing some funcionality compared to standard string processing functions in C.
+gpString is a C library providing some funcionalities compared to standard string processing functions in C.
 
 gpString does not aim to replace standard library string processing functions but introduces new functions.
 
